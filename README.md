@@ -1,2 +1,7 @@
 # Interactive-Quiz-App
-This code creates a simple interactive quiz app with three multiple-choice questions. It loads questions, tracks the user's score, and displays the final score at the end of the quiz. You can expand and customize the quiz by adding more questions to the quizData array.
+An interactive quiz app is a dynamic web application created using HTML, CSS, and JavaScript. This project allows users to engage in a fun and educational quiz experience. The HTML component is responsible for structuring the content and presenting questions and answer options to the user. CSS is used to style the app, making it visually appealing and user-friendly, with attractive layouts and responsive design. JavaScript is the engine that powers the interactivity, handling user input, scoring, and dynamically updating the interface as users progress through the quiz. Users can select answers, receive real-time feedback, and see their scores at the end of the quiz, making this project an engaging and interactive learning tool.
+
+
+
+
+
